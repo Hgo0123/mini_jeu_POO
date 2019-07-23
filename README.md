@@ -1,4 +1,4 @@
-#PETIT JEU INTERACTIF
+# PETIT JEU INTERACTIF
 
 Deux joueurs "bot" se battent avec un joueur "humain", representé par l'utilisateur.
 
